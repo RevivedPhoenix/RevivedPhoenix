@@ -7,15 +7,15 @@ I’m a data analyst from Minsk, Bealrus.
 - 🌱 I’m constantly learning new tools and approaches for working with data.
 - 👯 Open to collaboration on interesting projects!
 - 📫 How to reach me: kbratchik@bk.ru
-- 😄 In addition to my deep interest in data analysis, I actively develop my personal qualities through various hobbies:
-- ⚡ Fun fact: ...
+- 😄 Every detail is important and I strive for maximum accuracy in interpreting data.
+- ⚡ Fun fact: my interest in data analysis was born from my passion for board games. One day, while learning the rules of a new board game, I discovered that the principles of optimizing moves and choosing the best strategies were so similar to my approaches to data analysis that it inspired me to pursue a career in analytics.
 
 ## Personality traits and hobbies
 In addition to my deep interest in data analysis, I actively develop my personal qualities through various hobbies:
 
-- **Sports:** Regular exercise helps me maintain discipline, improve my physical fitness, and develop perseverance, which is important when solving complex analytical problems.
-- **Board Games:** Playing board games develops strategic thinking and the ability to work together, which directly affects my approach to analyzing and interpreting data.
-- **Reading Books:** Reading helps broaden my horizons and deepen my analytical skills, stimulating the search for unconventional solutions and ideas.
+- 🧗 **Sports:** Regular exercise helps me maintain discipline, improve my physical fitness, and develop perseverance, which is important when solving complex analytical problems.
+- 🎲 **Board Games:** Playing board games develops strategic thinking and the ability to work together, which directly affects my approach to analyzing and interpreting data.
+- 📚 **Reading Books:** Reading helps broaden my horizons and deepen my analytical skills, stimulating the search for unconventional solutions and ideas.
 
 ## 🛠 Languages and tools
 <div>
