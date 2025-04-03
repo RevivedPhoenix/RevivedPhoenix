@@ -1,9 +1,7 @@
-## Hi there 👋
+# Hi, I'm Ekaterina Bratchik! 👋 
 
-<!--
-**RevivedPhoenix/RevivedPhoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a data analyst from Minsk, Bealrus.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## 🛠 Languages and tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" height="40" width="40" alt="Python"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain-wordmark.svg" title="Numpy" height="40" width="40" alt="Numpy"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" height="40" width="40" alt="Pandas"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" height="40" width="40" alt="PostgreSQL"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" height="40" width="40" alt="MySQL"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/metabase/metabase-ar21.svg" title="Metabase" alt="Metabase"/>&nbsp;
+</div>
+
