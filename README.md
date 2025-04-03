@@ -31,3 +31,5 @@ In addition to my deep interest in data analysis, I actively develop my personal
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" height="40" width="40" alt="Git"/>&nbsp;
 </div>
 
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RevivedPhoenix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
