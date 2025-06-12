@@ -28,6 +28,7 @@ In addition to my deep interest in data analysis, I actively develop my personal
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" height="40" width="40" alt="MySQL"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/metabase/metabase-ar21.svg" title="Metabase" height="40" alt="Metabase"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" title="Power BI" height="40" alt="Power BI"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Light.svg" title="Grafana" height="40" width="40" alt="Grafana"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" height="40" width="40" alt="Git"/>&nbsp;
 </div>
 
